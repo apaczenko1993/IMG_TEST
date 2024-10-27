@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Projekty/ESP-IDE/IMG_TEST/build/CMakeFiles/bootloader
+C:/Projekty/ESP-IDE/IMG_TEST/build/CMakeFiles/bootloader.rule
+C:/Projekty/ESP-IDE/IMG_TEST/build/CMakeFiles/bootloader-complete.rule
+C:/Projekty/ESP-IDE/IMG_TEST/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Projekty/ESP-IDE/IMG_TEST/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Projekty/ESP-IDE/IMG_TEST/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Projekty/ESP-IDE/IMG_TEST/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Projekty/ESP-IDE/IMG_TEST/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Projekty/ESP-IDE/IMG_TEST/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Projekty/ESP-IDE/IMG_TEST/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
